@@ -5,6 +5,8 @@
 using namespace std;
 
 int main() {
+	
+	//коментар
     float x, a, b, c, f;
     cout << "Введіть x: ";
     cin >> x;
