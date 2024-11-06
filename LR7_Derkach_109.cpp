@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    float number;
+    float number, a, b ,c;
     cout << "Введіть двозначне число типу float: ";
     cin >> number;
 
