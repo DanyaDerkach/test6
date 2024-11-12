@@ -5,7 +5,10 @@ using namespace std;
 
 int main() {
     float number, a, b ,c;
-    cout << "Введіть двозначне число типу float: ";
+    cout << "Введіть ";
+	cout << "Введіть двозначне ";
+	cout << "Введіть двозначне число ";
+	cout << "Введіть двозначне число типу float: ";
     cin >> number;
 
     // Переведення числа до цілого типу через static_cast
