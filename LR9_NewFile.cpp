@@ -6,7 +6,10 @@ using namespace std;
 
 int main() {
 	
-	//коментар
+	//нові зміни
+    //зміни
+    //зміни
+    //new code
     float x, a, b, c, f;
     cout << "Введіть x: ";
     cin >> x;
